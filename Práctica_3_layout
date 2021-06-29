@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+nav{
+position: sticky;
+top: 0;
+background-color: purple;
+padding: 10 px 0px 10px 0px;
+margin: 0 auto;
+overflow: hidden;
+
+}
+nav a{
+color:black;
+}
+</style>
+<title>DSM-32</title>
+
+<link rel="stylesheet" href="./styles/Home.css">
+</head>
+
+<body>
+<!-- HEADER SECCIÓN -->
+<header>
+<div style="color:green">
+
+<h2>MI PRIMER PÁGINA WEB</h2>
+</div>
+<div style="color:rgb(245, 118, 0)">
+
+<h2>BIENVENIDO AL GRUPO DSM-32</h2>
+</div>
+</header>
+<!-- NAVIGATION BAR -->
+<div>
+<nav>
+<a href="http://youtube.com/">Inicio</a&gt;
+<a href="">Acerca De Nosotros</a>
+<a href="">Galeria</a>
+<a href="">Contacto</a>
+<div>
+<a href="">Iniciar Sessión</a>
+<a href="">Registrate</a>
+</div>
+</nav>
+</div>
+<!-- CONTEN SECTION -->
+<section>
+<h3>content section</h3>
+</section>
+<!-- Footer Section -->
+<footer>
+<h2 class="special">footer section</h2>
+</footer>
+</body>
+
+</html>
